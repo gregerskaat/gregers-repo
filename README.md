@@ -1,2 +1,2 @@
-# gregers-repo
-My repository
+# gregers-public
+My public repository.
